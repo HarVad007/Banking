@@ -1,2 +1,3 @@
 class Abc{
+void class()
 }
